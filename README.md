@@ -15,6 +15,12 @@
 
 - ⚡ Fun fact **"I enjoy listening to music."**
 
+
+<img align="right" height="150" src="https://www.bing.com/th/id/OGC.6a805dfc86d63fc48677398f3e980ac5?pid=1.7&rurl=https%3a%2f%2fmedia1.tenor.com%2fimages%2f6a805dfc86d63fc48677398f3e980ac5%2ftenor.gif%3fitemid%3d4604175&ehk=eQ4pa3WVzPmRbLDib6aVyfbZJhJAMMqXreV9HmpvmV8%3d"  />
+
+
+
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
